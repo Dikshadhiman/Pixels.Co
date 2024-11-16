@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.app {
+    background: linear-gradient(90deg, #0a0b0c, #1f2125);
+    color:  #4b4c4e, #26292f;
+  }
